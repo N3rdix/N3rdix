@@ -1,4 +1,4 @@
-### Hi there 👋
+I work as a Software Engineer in the area of Business Process Modeling. In my free-time I am a passionate user and contributor of [#home assistant](https://www.home-assistant.io/) and love automating things 😄
 
 <!--
 **N3rdix/N3rdix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
