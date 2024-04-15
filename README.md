@@ -5,6 +5,9 @@
 
 I work as a Software Engineer in the area of Business Process Modeling. In my free-time I am a passionate user and contributor of [#home assistant](https://www.home-assistant.io/) and love automating things 😄
 
+## Stats
+
+[![N3rdix's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3rdix&hide=stars&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies
 <p align="left">
