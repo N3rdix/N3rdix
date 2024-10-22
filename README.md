@@ -2,7 +2,7 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <img src="https://readme-typing-svg.herokuapp.com?color=%230084B3&center=false&lines=SOFTWARE+ENGINEER;SMART+HOME+ENTHUSIAST;MOTORSPORTS+ADDICT" />
 
-I work as a Software Engineer in the area of Business Process Modeling. In my free-time I am a passionate user of [#home assistant](https://www.home-assistant.io/) since version 0.60 (2018), contributing to various repos and love automating things 😄
+I work as a Software Engineer in the area of Business Process Modeling. In my free-time I am a passionate user of [#home assistant](https://www.home-assistant.io/) since version 0.60 (2018) and actively contributing to various integrations. I love automating things, my wife doesn't always 😄
 
 ## Stats
 
